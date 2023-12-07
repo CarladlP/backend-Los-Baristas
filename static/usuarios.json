@@ -1,0 +1,22 @@
+[
+    {
+        "email": "usuario1@example.com",
+        "password": "clave1"
+    },
+    {
+        "email": "usuario2@example.com",
+        "password": "clave2"
+    },
+    {
+        "email": "usuario3@example.com",
+        "password": "clave3"
+    },
+    {
+        "email": "usuario4@example.com",
+        "password": "clave4"
+    },
+    {
+        "email": "usuario5@example.com",
+        "password": "clave5"
+    }
+]
